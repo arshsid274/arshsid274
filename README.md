@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/arshsid274/arshsid274/blob/output/Adobe%20Express%20-%20Animated_Icon_Video_Creation.gif)
+![](https://github.com/arshsid274/arshsid274/blob/output/high%20quality%20crop.gif)
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer
