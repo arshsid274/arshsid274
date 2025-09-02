@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/arshsid274/arshsid274/blob/output/high%20quality%20crop.gif)
+![](https://github.com/arshsid274/arshsid274/blob/main/high%20quality%20crop.gif)
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer
