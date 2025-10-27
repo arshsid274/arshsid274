@@ -25,7 +25,7 @@
   
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" height="40" alt="jquery logo"  />
+  <img src="https://assets.codepen.io/16327/internal/avatars/u…rmat=auto&height=256&version=1697554632&width=256" height="40" alt="Gsap logo"  />
   <img width="12" />
 </p>
 
